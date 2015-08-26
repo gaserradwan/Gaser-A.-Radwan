@@ -49,7 +49,7 @@ about me.
 </h2>
 
 <p>
-i live in cairo and alexandria. <b>AFS-ers</b>. i like running, swimming, reading, travling, and taking photos.
+i live in cairo and alexandria. <b>AFS-ers</b>. i like running, swimming, reading, traveling, and taking photos.
 </p>
 <h2>
 currently reading. 
@@ -59,7 +59,7 @@ currently reading.
 <H2>
 current occupation
 </h2>
-<p> i currently work at AFS egypt as a <b> "STEM CO-manger assitent" </b>
+<p> i currently work at AFS egypt as a <b> "STEM CO-manger assistant" </b>
  
 
 <h2>
@@ -69,7 +69,7 @@ my CV
 <a href="My CV.pdf"> <img src="D:\READY/pdf.jpg" alt="pdf" /> </a>
 
 <h2>
-some of my favourit sites 
+some of my favorite sites 
 </h2>
  
 <a href="http://www.facebook.com"> <img src="D:\READY/facebook.jpg" alt="facebook" /> </a>
@@ -78,4 +78,5 @@ some of my favourit sites
  
 </body>
 </html>
+
 
